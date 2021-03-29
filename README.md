@@ -12,10 +12,15 @@
 💬 Contact: chloesung@korea.ac.kr
 
 ## 1. Data Preprocessing
-
+- 내부 데이터 전처리
+- 외부 데이터 전처리
 ## 2. Visualization
-
+- 시기 별 이슈 확인 (WordCloud)
+- 주택 및 거래 관련
+- 인구 관련
 ## 3. Modeling
-
+- 지수 생성
+- LDA
+- Multiple Regression Analysis
+- Oaxaca Decomposition
 ## 4. 결과 요약 및 제언
-
