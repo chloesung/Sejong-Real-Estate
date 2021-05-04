@@ -4,7 +4,7 @@
 - **주최**: LH 한국도시주택공사
 - **분석 목적**: 본 과제는 과거 4개년도의 부동산 실거래정보와 전입‧전출 등 거주인구 정보, 상권정보 및 건물 등 공간데이터를 활용, 세종시 주택 시장 특성을 직관적으로 이해 할 수 있는 다양한 모델을 도출하는데 목적이 있습니다.
 - **해결 과제**: 세종시 주택 시장 특성을 쉽고 명확히 보이도록 시각화 모델 제시
-- **홈페이지 링크**: [COMPAS 세종시 주택시장 특성 분석](https://compas.lh.or.kr/noticeinfo?pageIndex=1&pageSize=10&searchKey=both&searchText=&totalCount=55&brdArtclNo=1282)
+- **웹페이지**: [COMPAS 세종시 주택시장 특성 분석](https://compas.lh.or.kr/noticeinfo?pageIndex=1&pageSize=10&searchKey=both&searchText=&totalCount=55&brdArtclNo=1282)
 
 ## Introduction
 2012년 새롭게 출범한 세종특별자치시는, **'행정중심복합도시'** 라는 우리나라에서 처음으로 시도하는 특별한 형태의 도시입니다.  
