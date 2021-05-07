@@ -18,6 +18,7 @@
 ## 1. Data Preprocessing
 - 내부 데이터 전처리
 - 외부 데이터 전처리
+
 ## 2. Visualization
 - 시기 별 이슈 확인 (WordCloud)
 - 주택 및 거래 관련
