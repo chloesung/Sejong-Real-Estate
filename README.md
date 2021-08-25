@@ -37,9 +37,14 @@
 ![세종대왕_시각화분석결과물-06](https://user-images.githubusercontent.com/71932401/130740245-a7dd3b0e-1463-4e25-96ea-6e92f1c3c438.png)
 
 ## Modeling
-### 지수 생성
-### LDA
-### Multiple Regression Analysis
-### Oaxaca Decomposition
+### 지수 생성 및 LDA
+![세종대왕_시각화분석결과물-07](https://user-images.githubusercontent.com/71932401/130741182-20cf09a5-6d0d-49c4-95b8-2ccff48a1f05.png)
+
+### Multiple Regression Analysis 및 Oaxaca Decomposition
+![세종대왕_시각화분석결과물-08](https://user-images.githubusercontent.com/71932401/130741194-44127f43-0603-4acb-861c-3896b8f980e4.png)
 
 ## 결과 요약 및 제언
+![세종대왕_시각화분석결과물-09](https://user-images.githubusercontent.com/71932401/130741310-b8651d99-0f04-40d8-8bd7-72433e677bcc.png)
+![세종대왕_시각화분석결과물-10](https://user-images.githubusercontent.com/71932401/130741326-1580ce14-4467-43bd-89c9-0146b1694515.png)
+![세종대왕_시각화분석결과물-11](https://user-images.githubusercontent.com/71932401/130741336-f6924fb8-5f8a-4ee9-b9c3-19be1f92c8dc.png)
+![세종대왕_시각화분석결과물-12](https://user-images.githubusercontent.com/71932401/130741341-bd66cc2e-2ed9-4b40-bd8c-a90c9d6276b0.png)
