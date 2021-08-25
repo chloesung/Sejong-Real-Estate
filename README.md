@@ -17,9 +17,12 @@
 성유지, 오세린, 윤정현, 이나윤, 이영신   
 💬 Contact: chloesung@korea.ac.kr
 
-## 1. Data Preprocessing
-- 내부 데이터 전처리
-- 외부 데이터 전처리
+## 구조
+1. **Data Preprocessing:** 500x500 격자 생성 후 그리드 별로 데이터 전처리
+2. **Visualiztion:** 시기 별 뉴스 데이터 시각화 및 수치 데이터 지도에 시각화
+3. **Modeling:** 그리드 별 지수 생성, 뉴스 데이터 LDA, 다중회귀분석 및 Oaxaca Decomposition
+4. **Crawling:** 네이버 뉴스, 카카오맵 크롤링
+5. **Slides:** 최종 발표 슬라이드 및 시각화 분석 
 
 ## 2. Visualization
 - 시기 별 이슈 확인 (WordCloud)
