@@ -24,15 +24,22 @@
 4. **Crawling:** 네이버 뉴스, 카카오맵 크롤링
 5. **Slides:** 최종 발표 슬라이드 및 시각화 분석 
 
-## 2. Visualization
-- 시기 별 이슈 확인 (WordCloud)
-- 주택 및 거래 관련
-- 인구 관련
+## Visualization
+### 시기 별 이슈 확인 (WordCloud)
+![세종대왕_시각화분석결과물-02](https://user-images.githubusercontent.com/71932401/130740019-2cfec62a-af88-4e44-adba-de4c28a7733e.png)
 
-## 3. Modeling
-- 지수 생성
-- LDA
-- Multiple Regression Analysis
-- Oaxaca Decomposition
+### 주택 및 거래 관련
+![세종대왕_시각화분석결과물-03](https://user-images.githubusercontent.com/71932401/130740138-9b7a33a5-685d-4a51-8adb-fab4eacd36a5.png)
+![세종대왕_시각화분석결과물-04](https://user-images.githubusercontent.com/71932401/130740147-768a5483-68f1-4870-bd39-99f40f83a264.png)
 
-## 4. 결과 요약 및 제언
+### 인구 관련
+![세종대왕_시각화분석결과물-05](https://user-images.githubusercontent.com/71932401/130740216-d61db4d3-2b7c-4a4f-b592-2ce21fb5e549.png)
+![세종대왕_시각화분석결과물-06](https://user-images.githubusercontent.com/71932401/130740245-a7dd3b0e-1463-4e25-96ea-6e92f1c3c438.png)
+
+## Modeling
+### 지수 생성
+### LDA
+### Multiple Regression Analysis
+### Oaxaca Decomposition
+
+## 결과 요약 및 제언
