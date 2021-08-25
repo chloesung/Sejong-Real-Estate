@@ -11,8 +11,20 @@
 ## Introduction
 2012년 새롭게 출범한 세종특별자치시는, **'행정중심복합도시'** 라는 우리나라에서 처음으로 시도하는 특별한 형태의 도시입니다. 또한 작년, '세종천도설' 등 여러 이슈에 휩싸이며 주택의 거래량이 가장 빠르게 증가하던 곳이기도 합니다. 그래서 저희는 데이터를 통해 **세종시의 주택시장이 어떤 특징을 가지고 있는지**를 중심으로 명료한 시각화 모델을 통해 제시하고자 합니다.   
 
-## Team 세종대왕
-성유지, 오세린, 윤정현, 이나윤, 이영신   
+## Team 세종대왕 ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/chloesung"><img src= width="100px;" alt=""/><br /><sub><b>Youji Sung</b></sub></a><br /><a href="#question-kentcdodds" title="Answering Questions">💬</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=kentcdodds" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Akentcdodds" title="Reviewed Pull Requests">👀</a> <a href="#infra-jakebolam" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+      <td align="center"><a href="https://github.com/serin-oh"><img src= alt=""/><br /><sub><b>Serin Oh</b></sub></a><br /><a href="#question-kentcdodds" title="Answering Questions">💬</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=kentcdodds" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Akentcdodds" title="Reviewed Pull Requests">👀</a> <a href="#talk-kentcdodds" title="Talks">📢</a></td>
+      <td align="center"><a href="https://github.com/"><img src= width="100px;" alt=""/><br /><sub><b>Junghyun Yoon</b></sub></a><br /><a href="#question-kentcdodds" title="Answering Questions">💬</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=kentcdodds" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Akentcdodds" title="Reviewed Pull Requests">👀</a> <a href="#talk-kentcdodds" title="Talks">📢</a></td>
+    <td align="center"><a href="https://github.com/icloudna"><img src= width="100px;" alt=""/><br /><sub><b>Nayun Lee</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jfmengels" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Ajfmengels" title="Reviewed Pull Requests">👀</a> <a href="#tool-jfmengels" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://github.com/lsh3163"><img src="https://github.com/Tobigs-team/Cross-Cutting/blob/master/img/member/%EC%8A%B9%ED%98%84" width="100px;" alt=""/><br /><sub><b>SeungHyun Lee</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jakebolam" title="Documentation">📖</a> <a href="#tool-jakebolam" title="Tools">🔧</a> <a href="#infra-jakebolam" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-jakebolam" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/youngsin1108"><img src= width="100px;" alt=""/><br /><sub><b>Youngsin Lee</b></sub></a><br /><a href="#design-tbenning" title="Design">🎨</a> <a href="#maintenance-tbenning" title="Maintenance">🚧</a></td>
+  </tr>
+</table>
 💬 Contact: chloesung@korea.ac.kr
 
 ## 구조
